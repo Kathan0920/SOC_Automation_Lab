@@ -1,3 +1,4 @@
+# Day-1 of building Own Home SOC Lab
 In the day one, we will see the overview of how the data will flow, 
 which types of actions will take place from which tool to which tool,
 and what will be the responsibility of each tool.

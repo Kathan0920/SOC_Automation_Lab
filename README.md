@@ -6,5 +6,5 @@ SOC Tools to be used:
 2) TheHive (Case Management)
 3) Shuffle (SOAR)
 
-I will be provided walkthrough of each day here.
+I will provide walkthrough of each day here.
 You can find each days walkthrough in the respective file of each day named by Day-1, Day-2, and so on.
